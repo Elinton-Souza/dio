@@ -1,0 +1,9 @@
+#Os tipos mais comuns são:
+
+TEXTO       str
+NUMÉRICO    int, float, complex
+SEQUÊNCIA   list, tuple, range
+MAPA        dict
+COLEÇÃO     set, fonzenset
+BOOLEANO    bool
+BINÁRIO     bytes, bytearray, memoryview
